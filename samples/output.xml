@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<MyData>
+    <ROW>
+        <Column1>John Doe</Column1>
+        <Column2>123 Main St</Column2>
+        <Column3>123-456-7890</Column3>
+    </ROW>
+    <ROW>
+        <Column1>Alice Smith</Column1>
+        <Column2>456 Elm St</Column2>
+        <Column3>987-654-3210</Column3>
+    </ROW>
+    <ROW>
+        <Column1>Bob Johnson</Column1>
+        <Column2>789 Oak St</Column2>
+        <Column3>555-555-5555</Column3>
+    </ROW>
+    <ROW>
+        <Column1>Eva Williams</Column1>
+        <Column2>321 Maple St</Column2>
+        <Column3>111-222-3333</Column3>
+    </ROW>
+</MyData>
