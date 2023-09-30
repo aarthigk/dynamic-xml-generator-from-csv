@@ -24,7 +24,7 @@ The Dynamic XML Generator from CSV is a Java application that was created to hel
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/aarthigk/dynamic-xml-generator.git
+   https://github.com/aarthigk/dynamic-xml-generator-from-csv.git
 2.Navigate to the project directory:
 cd dynamic-xml-generator
 
